@@ -17,7 +17,7 @@ This repository contains valuable resources and content that complements the off
 ### Key Links
 
 - **Main Site**: [Invajy.com](https://www.invajy.com)
-- **Motivational Quotes**: [Quotes Section](https://www.invajy.com)
+- **Motivational Quotes**: [Quotes Section](https://www.invajy.com](https://www.invajy.com/category/quotes/)
 - **Resources Hub**: [Resources at Invajy](https://www.invajy.com)
 
 ### How to Use
